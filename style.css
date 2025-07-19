@@ -1,0 +1,27 @@
+*{
+  margin: 0%;
+  padding: 0%
+}
+#head{
+  font-family: arial;
+  font-size:2em;
+  /*margin-right: 50%;*/
+  
+}
+/*#wr{
+  margin: 0%;
+  padding
+}*/
+
+span{
+  margin-left: 90%;
+}
+#btn{
+  margin:50%;
+  padding:5%;
+  border-radius: 50%;
+  background-color:Pink;
+  font-size: 100%;
+  font-style: Bold;
+}
+
